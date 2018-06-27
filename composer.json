@@ -1,0 +1,4 @@
+{
+    "name": "collectorsweekly/feedwriter",
+    "description": "This package can be used to generate feeds in either RSS 1.0, RSS 2.0 or Atom formats."
+}
